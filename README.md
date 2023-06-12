@@ -16,3 +16,6 @@ Once this is installed, simply open the console in the folder this repo is kept 
 Select from the menus for what you'd like to do, when done simply hit 0. Quit to close. 
 ## Depenancies 
 MySQL
+
+### Sample of app in use 
+https://github.com/offbrandcat/employee-database
