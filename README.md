@@ -18,4 +18,4 @@ Select from the menus for what you'd like to do, when done simply hit 0. Quit to
 MySQL
 
 ### Sample of app in use 
-https://github.com/offbrandcat/employee-database
+https://drive.google.com/file/d/1iZik4U3JcTYtZlOuGxjqbAey-YuztP6y/view
